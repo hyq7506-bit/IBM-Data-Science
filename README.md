@@ -1,2 +1,2 @@
-# IBM-Data-Science-Tools-and-Ecosystem
-Tools for Data Science: Peer-graded Assignment
+# IBM-Data-Science
+Used for Peer-graded Assignment Submission
